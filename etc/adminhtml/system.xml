@@ -18,7 +18,7 @@
   <system>
     <section id="payment" translate="label" type="text" sortOrder="400" showInDefault="1" showInWebsite="1" showInStore="1">
       <group id="duitku_linkajafixed" translate="label" type="text" sortOrder="10" showInDefault="1" showInWebsite="1" showInStore="1">
-        <label>Duitku LinkAja</label>
+        <label>Duitku Link Aja (Fixed)</label>
 
         <fieldset_css>complex</fieldset_css>
         
