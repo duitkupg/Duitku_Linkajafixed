@@ -1,5 +1,4 @@
 <?php
-namespace Duitku\Linkajafixed\Helper\Duitku;
 
 class Duitku_Linkajafixed_ApiRequestor {
 

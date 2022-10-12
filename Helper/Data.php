@@ -14,10 +14,10 @@
  */
 
 namespace Duitku\Linkajafixed\Helper;
-// include_once('Duitku/ApiRequestor.php');
-// include_once('Duitku/DuitkuCore.php');
+include_once('Duitku/ApiRequestor.php');
+include_once('Duitku/DuitkuCore.php');
 use Duitku\Linkajafixed\Helper\DuitkuConstants;
-use Duitku\Linkajafixed\Helper\Duitku\Duitku_Linkajafixed_Core;
+use Duitku_Linkajafixed_Core;
 class Data extends \Magento\Framework\App\Helper\AbstractHelper
 {
     /**
