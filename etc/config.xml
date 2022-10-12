@@ -20,7 +20,7 @@
         <duitku_linkajafixedepay>
         <active>0</active>
         <model>Duitku\Linkajafixed\Model\Method\Epay\Payment</model>
-        <title>Duitku LinkaAja Payment solutions</title>
+        <title>Duitku Link Aja Payment solutions</title>
         <instantinvoice>0</instantinvoice>
         <instantinvoicemail>0</instantinvoicemail>
         <paymentgroup>0</paymentgroup>
